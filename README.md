@@ -1,3 +1,4 @@
+
 # flask-sheets-template-2024
 
 A web application starter template, created in Python with the Flask framework. Allows users to login with their Google accounts (via OAuth). Interfaces with a Google Sheets database.
